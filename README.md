@@ -1,5 +1,5 @@
 # Python
-ython Fundamentals
+python Fundamentals
 
 Exercise 1  
 Write Python code that prints your name, student number and email address.  
